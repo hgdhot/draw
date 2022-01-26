@@ -1,55 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T03:52:18.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="p2INCyUYonNvG8mMPcrP" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T05:37:44.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Sfmu7q32afqZ7lV6nP7r" version="16.4.7" type="github">
   <diagram id="4mkrBCsuVpUOldAGc6sE" name="第 1 页">
     <mxGraphModel dx="890" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-1" value="文档翻译" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontStyle=1;labelBorderColor=none;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="320" y="70" width="140" height="80" as="geometry" />
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-1" value="文档翻译" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fontStyle=1;labelBorderColor=none;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="390" y="50" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-2" value="解析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-2" value="解析" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="120" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-3" value="异常断句" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-3" value="异常断句" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-4" value="内容抽取" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-4" value="内容抽取" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-5" value="译后回填" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-5" value="译后回填" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="670" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-8" value="Office" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-8" value="Office" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="310" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-9" value="Normal XML" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-9" value="Normal XML" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="310" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-10" value="Custom XML" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-10" value="Custom XML" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="310" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-11" value="翻译" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-11" value="翻译" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="500" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-12" value="非译判断" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-12" value="非译判断" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="500" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-13" value="加密文档" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-13" value="加密文档" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-14" value="水印" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-14" value="水印" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-15" value="流量控制" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-15" value="流量控制" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="500" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-16" value="失败策略" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-16" value="失败策略" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="500" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-17" value="Office兼容" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-17" value="Office兼容" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-19" value="样式兼容" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FAvHpMW3X1YaSR_P-Nyj-19" value="样式兼容" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fontSize=18;fontColor=#000000;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="670" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
