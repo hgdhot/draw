@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
+  <diagram name="第 1 页" id="bENNGz8df1FzyxL4tyUd">
+    <mxGraphModel dx="987" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uMELu0iBx9YIIrcGVtTa-1" target="uMELu0iBx9YIIrcGVtTa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-1" value="下载PDF文档" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="97" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uMELu0iBx9YIIrcGVtTa-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="323.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-3" value="抽取PDF内容" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="162" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uMELu0iBx9YIIrcGVtTa-5" target="uMELu0iBx9YIIrcGVtTa-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uMELu0iBx9YIIrcGVtTa-5" target="uMELu0iBx9YIIrcGVtTa-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-5" value="首页版式识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uMELu0iBx9YIIrcGVtTa-23" target="uMELu0iBx9YIIrcGVtTa-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-23" value="首页PDF转word" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="314" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uMELu0iBx9YIIrcGVtTa-26" target="uMELu0iBx9YIIrcGVtTa-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-26" value="PDF转latex" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="314" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-29" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;判断是否为扫描件&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="162" width="230" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-30" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;判断首页是否包含公式，是否大于2列&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="236" width="230" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uMELu0iBx9YIIrcGVtTa-31" target="uMELu0iBx9YIIrcGVtTa-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="261" y="520" />
+              <mxPoint x="325" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-31" value="首页解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="456" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uMELu0iBx9YIIrcGVtTa-32" target="uMELu0iBx9YIIrcGVtTa-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="393" y="520" />
+              <mxPoint x="325" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-32" value="latex解析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="413" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-35" value="返回解析结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="545" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uMELu0iBx9YIIrcGVtTa-38" target="uMELu0iBx9YIIrcGVtTa-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uMELu0iBx9YIIrcGVtTa-38" value="异常断句检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="216" y="385" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
